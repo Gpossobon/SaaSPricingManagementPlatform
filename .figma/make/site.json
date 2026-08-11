@@ -1,0 +1,10 @@
+{
+  "description": "Intelligent pricing platform for supermarkets using AI to optimize perishable product prices, reduce waste, and maximize revenue and margins.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
